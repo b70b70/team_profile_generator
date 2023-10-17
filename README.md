@@ -40,5 +40,8 @@ Input Example
 HTML Output in Browser
 ![HTML Output in Browser](/assets/Untitled2.png)
 
+
+Disclaimer: You can find a sample generated in the output directory in the repo! 
+
 License
 This project is licensed under the MIT License.
